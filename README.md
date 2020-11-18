@@ -1,6 +1,6 @@
 # This is the title 
 
-> My code for the GIT project goes here...
+> My innocent little change
 
 ## I'm in the feature branch
 
